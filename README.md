@@ -1,6 +1,5 @@
 # Zomato-Order-Management-System 
 
-# Zomato Order Management System
 
 ## Project Description
 This project is a web application that allows users to place food orders with real-time data processing and storage in MySQL. The system processes user orders, validates data, and stores order details in the database,And we can use the data for ETL (Extract, Transform, Load).
