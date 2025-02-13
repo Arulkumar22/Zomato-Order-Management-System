@@ -6,15 +6,15 @@ The Zomato Order Management System is a web-based application that allows users 
 
 TECH STACK :
 
-Backend: Flask (Python)
-Database: MySQL
+Backend: Flask (Python) ,
+Database: MySQL ,
 Frontend: HTML (Rendered via Flask home.html template)
 
 PREREQUISITES :
 
-Python 3
-Flask
-MySQL Server
+Python 3 ,
+Flask ,
+MySQL Server ,
 Required Python libraries (pymysql)
 
 
