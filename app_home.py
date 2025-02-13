@@ -9,7 +9,7 @@ def create_connection():
         host='localhost',
         user='root',  # Replace with your MySQL username
         password='arul@8806',  # Replace with your MySQL password
-        database='zomoto'  # Database name
+        database='zomato'  # Database name
     )
 
 # Home route: renders the index.html page
