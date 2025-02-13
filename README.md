@@ -1,10 +1,25 @@
 # Zomato-Order-Management-System 
 
-OVERVIEW
+OVERVIEW :
 
 The Zomato Order Management System is a web-based application that allows users to place food orders online. The system processes orders and stores them in a MySQL database.
 
-ETL
+TECH STACK :
+
+Backend: Flask (Python)
+Database: MySQL
+Frontend: HTML (Rendered via Flask home.html template)
+
+PREREQUISITES :
+
+Python 3
+Flask
+MySQL Server
+Required Python libraries (pymysql)
+
+
+ETL :
+
 1. Total Revenue from All Orders
 2. Revenue by Item
 3. Revenue by Payment Method
